@@ -8,6 +8,6 @@ Este repositório será a base para todo o conhecimento DeV
 
 ## Introdução 
 
-Comece clonandu o repositório pelo GITHUB
+Comece clonando o repositório pelo GITHUB
 ```
 git@github.com:gutin97/beginning.git 
